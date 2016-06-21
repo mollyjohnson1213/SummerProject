@@ -1,26 +1,23 @@
-<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1249" measuredH="200" mockupW="990" mockupH="138">
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="891" measuredH="436" mockupW="270" mockupH="333">
   <controls>
-    <control controlID="1" controlTypeID="com.balsamiq.mockups::LineOfText" x="259" y="62" w="990" h="58" measuredW="200" measuredH="27" zOrder="0" locked="false" isInGroup="-1"/>
-    <control controlID="14" controlTypeID="com.balsamiq.mockups::Link" x="446" y="181" w="-1" h="-1" measuredW="64" measuredH="19" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::LineOfText" x="621" y="103" w="270" h="24" measuredW="200" measuredH="27" zOrder="0" locked="false" isInGroup="-1"/>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::TextInput" x="621" y="246" w="-1" h="-1" measuredW="79" measuredH="26" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Coach%20Info</text>
+        <text/>
       </controlProperties>
     </control>
-    <control controlID="15" controlTypeID="com.balsamiq.mockups::Link" x="617" y="181" w="-1" h="-1" measuredW="63" measuredH="19" zOrder="2" locked="false" isInGroup="-1">
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::TextInput" x="621" y="327" w="-1" h="-1" measuredW="79" measuredH="26" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Player%20Info</text>
+        <text/>
       </controlProperties>
     </control>
-    <control controlID="16" controlTypeID="com.balsamiq.mockups::Link" x="798" y="181" w="-1" h="-1" measuredW="96" measuredH="19" zOrder="3" locked="false" isInGroup="-1">
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::TextInput" x="621" y="410" w="-1" h="-1" measuredW="79" measuredH="26" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>New%20Assesment</text>
+        <text/>
       </controlProperties>
     </control>
-    <control controlID="17" controlTypeID="com.balsamiq.mockups::Link" x="1030" y="181" w="-1" h="-1" measuredW="48" measuredH="19" zOrder="4" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Reports</text>
-      </controlProperties>
-    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::LineOfText" x="621" y="198" w="115" h="27" measuredW="200" measuredH="27" zOrder="4" locked="false" isInGroup="-1"/>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::LineOfText" x="621" y="287" w="121" h="27" measuredW="200" measuredH="27" zOrder="5" locked="false" isInGroup="-1"/>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::LineOfText" x="621" y="368" w="159" h="27" measuredW="200" measuredH="27" zOrder="6" locked="false" isInGroup="-1"/>
   </controls>
 </mockup>
-
